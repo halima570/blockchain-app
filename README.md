@@ -51,5 +51,6 @@ truffle migrate --network develop
 ```bash
 npm start
 ```
-7. **Ouvrir l’application dans ton navigateur**
+6. **Ouvrir l’application dans ton navigateur**
+   
 Visite (http://localhost:3000) et connecte ton MetaMask au réseau local.
