@@ -31,25 +31,24 @@ Ce projet est un **DApp (application décentralisée)** — une liste de tâches
 1. **Cloner le dépôt**  
    ``bash
    git clone <URL_DU_DEPOT>
-   cd <NOM_DU_PROJET>``
-2. Installer les dépendances
+   cd <NOM_DU_PROJET>
+2. **Installer les dépendances**
    
    npm install
-3. Démarrer une blockchain locale
+3. **Démarrer une blockchain locale**
 - Avec Ganache GUI ou CLI :
- 
   ganache-cli
 4. **Compiler et déployer le contrat**
-
 truffle compile
 truffle migrate --network develop
-5. Lancer l’interface React
 
+5. **Lancer l’interface React**
 npm start
-6. Ouvrir l’application dans ton navigateur
+
+7. **Ouvrir l’application dans ton navigateur**
 Visite (http://localhost:3000) et connecte ton MetaMask au réseau local.
 
-4. Structure du projet
+## 4. Structure du projet
 
 ├── contracts/
 │   └── TodoList.sol
