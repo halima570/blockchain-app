@@ -31,22 +31,22 @@ Ce projet est un **DApp (application décentralisée)** — une liste de tâches
 1. **Cloner le dépôt**  
    ``bash
    git clone <URL_DU_DEPOT>
-   cd <NOM_DU_PROJET>
+   cd <NOM_DU_PROJET>``
 2. **Installer les dépendances**
    ``bash
-   npm install
+   npm install``
 3. **Démarrer une blockchain locale**
 - Avec Ganache GUI ou CLI :
   ``bach
-  ganache-cli
+  ganache-cli``
 4. **Compiler et déployer le contrat**
 ``bash
 truffle compile
-truffle migrate --network develop
+truffle migrate --network develop``
 
 5. **Lancer l’interface React**
 ``bash
-npm start
+npm start``
 
 6. **Ouvrir l’application dans ton navigateur**
 Visite (http://localhost:3000) et connecte ton MetaMask au réseau local.
