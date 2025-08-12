@@ -54,3 +54,8 @@ npm start
 6. **Ouvrir l’application dans ton navigateur**
    
 Visite (http://localhost:3000) et connecte ton MetaMask au réseau local.
+
+---
+## Contact
+
+Pour toute question, tu peux me contacter via mon profil linkedin (www.linkedin.com/in/halima-el-hagouchi-61a21a213).
