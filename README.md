@@ -32,3 +32,9 @@ Ce projet est un **DApp (application décentralisée)** — une liste de tâches
    ```bash
    git clone <URL_DU_DEPOT>
    cd <NOM_DU_PROJET>
+2. **Installer les dépendances**
+   ```bash
+   npm install
+3. 
+
+4. 
