@@ -43,11 +43,9 @@ Ce projet est un **DApp (application décentralisée)** — une liste de tâches
 ``bash
 truffle compile
 truffle migrate --network develop``
-
 5. **Lancer l’interface React**
 ``bash
 npm start``
-
 6. **Ouvrir l’application dans ton navigateur**
 Visite (http://localhost:3000) et connecte ton MetaMask au réseau local.
 
