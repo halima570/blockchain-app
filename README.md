@@ -1,6 +1,6 @@
 # Ethereum Todo List DApp
 
-Ce projet est un **DApp (application décentralisée)** — une liste de tâches ("Todo List") opérant sur la blockchain Ethereum, construit selon le tutoriel vidéo *“Build Your First Blockchain App – Ethereum Todo List”* de Dapp University :contentReference[oaicite:1]{index=1}.
+Ce projet est un **DApp (application décentralisée)** — une liste de tâches ("Todo List") opérant sur la blockchain Ethereum, construit selon le tutoriel vidéo *“Build Your First Blockchain App – Ethereum Todo List”* de Dapp University :contentReference : (https://www.youtube.com/watch?v=rzvk2kdjr2I&t=4716s&ab_channel=DappUniversity).
 
 ---
 
